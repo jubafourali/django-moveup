@@ -1,0 +1,15 @@
+Django
+djangorestframework
+markdown
+django-filter
+django-enumfields
+django-reversion
+Pillow
+psycopg2
+psycopg2-binary
+django-guardian
+django-filter
+django-crispy-forms
+django-allauth
+django-rest-auth
+django-bcrypt
